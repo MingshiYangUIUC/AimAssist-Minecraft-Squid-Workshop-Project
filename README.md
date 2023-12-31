@@ -5,9 +5,8 @@ An aiming assist mechanism that guides Minecraft bow Users. [How is it trained?]
 *This datapack's functionality requires [Math Datapack](https://github.com/MingshiYangUIUC/Math-Minecraft-Squid-Workshop-Project). Please include its latest version in your datapack directory.*
 
 # Introduction
-This datapack contains some experimental _neural networks (NNs)_ implemented by scoreboard. \
-Here is a place to test and add some interesting neural networks. \
-The networks are trained with Pytorch and translated to scoreboard operations in functions.
+This datapack contains some experimental _neural networks (NNs)_ can be run in Minecraft using scoreboard. \
+The networks are trained with Pytorch and translated to scoreboard operations in mcfunctions.
 
 *Disclaimer: Due to randomness in arrow launch and target motion, as well as loss of precision during scoreboard operations, the aim bots cannot be fully accurate (unless we hack Minecraft RNG). Like when you normally shoot, accuracy decreases fast with increasing distance between shooter and target.*
 
