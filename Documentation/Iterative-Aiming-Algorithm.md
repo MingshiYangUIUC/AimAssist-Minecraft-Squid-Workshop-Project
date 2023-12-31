@@ -1,13 +1,11 @@
 # Aiming Algorithm
-This algorithm can aim at a moving target. Note that it can be directly used in Minecraft.
+This algorithm can be used to aim at a moving target. Note that it can be directly used in Minecraft.
 
 ## Objective
 Hit a target currently at position P and is moving with constant velocity V.
 
 ## Known Knowledge
-We know how to aim at a stationary target, and how much time does an arrow need to hit such target. 
-
-## Framework
+We know how to aim at a stationary target, and how much time does an arrow need to hit such target. \
 If there exist a position P^ where the arrow and the target spend the same time T^ to get there, we should aim at this position.
 
 ## Question

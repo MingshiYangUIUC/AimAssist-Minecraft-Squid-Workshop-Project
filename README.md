@@ -24,16 +24,16 @@ Don't forget to install the [Math Datapack](https://github.com/MingshiYangUIUC/M
 # How to use
 
 Check out the features below. Feel free to suggest more!
-- [Bow&Arrow Aim Guide with NNs](https://github.com/MingshiYangUIUC/MLP-Minecraft-Squid-Workshop-Project/blob/main/Documentation/NN-Aim-Guide.md)
-- [Advanced Bow&Arrow Aimbot Fully Guided by NNs](https://github.com/MingshiYangUIUC/MLP-Minecraft-Squid-Workshop-Project/blob/main/Documentation/Full-NN-Aim-Bot.md)
-- [Advanced Bow&Arrow Aimbot Partly Guided by NNs](https://github.com/MingshiYangUIUC/MLP-Minecraft-Squid-Workshop-Project/blob/main/Documentation/Half-NN-Aim-Bot.md)
+- [Get Bow&Arrow Aim Direction with NNs](https://github.com/MingshiYangUIUC/AimAssist-Minecraft-Squid-Workshop-Project/blob/main/Documentation/NN-Aim-Direction-Guide.md)
+- [Use Advanced Bow&Arrow Aimbot Fully Guided by NNs](https://github.com/MingshiYangUIUC/AimAssist-Minecraft-Squid-Workshop-Project/blob/main/Documentation/Full-NN-Aim-Assist.md)
+- [Use Advanced Bow&Arrow Aimbot Partly Guided by NNs](https://github.com/MingshiYangUIUC/AimAssist-Minecraft-Squid-Workshop-Project/blob/main/Documentation/Half-NN-Aim-Assist.md)
 
 # Terms of Use
 
 **NO COMMERCIAL USE.** 
 
 ## License
-[Mozilla Public License 2.0](https://github.com/MingshiYangUIUC/Autoaim-Minecraft-Squid-Workshop-Project/blob/main/LICENSE)
+[Mozilla Public License 2.0](https://github.com/MingshiYangUIUC/AimAssist-Minecraft-Squid-Workshop-Project/blob/main/LICENSE)
 
 
 # More About Squid Workshop
