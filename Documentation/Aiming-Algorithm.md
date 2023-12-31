@@ -1,4 +1,4 @@
-# Aiming Algotithm
+# Aiming Algorithm
 This algorithm can aim at a moving target. Note that it can be directly used in Minecraft.
 
 ## Objective
